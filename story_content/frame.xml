@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns10110000001" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pxabnsnfns00000000001" textdirection="ltr" textengine="Uniscribe" device="false" fontscale="100" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
   <layouts>
-    <layout name="npnxnanbsnfns00000000001" font="Calibri" controllayout="npnxnanbsnfns00000000001" colorscheme="pxabnsnfns10110000001" string_table="pxabnsnfns10110000001" />
-    <layout name="pxabnsnfns00000000001" font="Calibri" controllayout="pxabnsnfns00000000001" colorscheme="pxabnsnfns10110000001" string_table="pxabnsnfns10110000001" />
-    <layout name="npxnabnsnfns00000000001" font="Calibri" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns10110000001" string_table="pxabnsnfns10110000001" />
-    <layout name="npnxnanbnsnfns00000000001" font="Calibri" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns10110000001" string_table="pxabnsnfns10110000001" />
-    <layout name="pxabnsnfns00000000000" font="Calibri" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns10110000001" string_table="pxabnsnfns10110000001" />
-    <layout name="pxabnsnfns10110000001" font="Calibri" controllayout="pxabnsnfns10110000001" colorscheme="pxabnsnfns10110000001" string_table="pxabnsnfns10110000001" />
+    <layout name="npnxnanbsnfns00000000001" font="Calibri" controllayout="npnxnanbsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000001" font="Calibri" controllayout="pxabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npxnabnsnfns00000000001" font="Calibri" controllayout="npxnabnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="npnxnanbnsnfns00000000001" font="Calibri" controllayout="npnxnanbnsnfns00000000001" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
+    <layout name="pxabnsnfns00000000000" font="Calibri" controllayout="pxabnsnfns00000000000" colorscheme="pxabnsnfns00000000001" string_table="pxabnsnfns00000000001" />
   </layouts>
   <control_options>
     <optiongroups>
@@ -199,32 +198,9 @@
       </control>
       <control name="close_btn" enabled="false" />
     </control_layout>
-    <control_layout name="pxabnsnfns10110000001">
-      <control name="volume" enabled="false" />
-      <control name="seekbar" enabled="true" />
-      <control name="replay" enabled="true" />
-      <control name="pauseplay" enabled="true" />
-      <control name="logo" enabled="false" />
-      <control name="previous" enabled="true" />
-      <control name="next" enabled="true" />
-      <control name="swipeleft" enabled="true" />
-      <control name="swiperight" enabled="true" />
-      <control name="submit" enabled="false" />
-      <control name="finish" enabled="false" />
-      <control name="submitall" enabled="false" />
-      <control name="resources" enabled="false" />
-      <control name="glossary" enabled="false" />
-      <control name="transcript" enabled="false" />
-      <control name="outline" enabled="false">
-        <controls>
-          <control name="search" enabled="false" />
-        </controls>
-      </control>
-      <control name="close_btn" enabled="true" />
-    </control_layout>
   </control_layouts>
   <colorschemes>
-    <colorscheme name="pxabnsnfns10110000001">
+    <colorscheme name="pxabnsnfns00000000001">
       <color_group name="infopanel">
         <group_colors>
           <color name="link_text">
@@ -1152,7 +1128,7 @@
     </colorscheme>
   </colorschemes>
   <string_tables>
-    <string_table name="pxabnsnfns10110000001">
+    <string_table name="pxabnsnfns00000000001">
       <string id="three_image_progress_audio">progress</string>
       <string id="three_image_audio">audio</string>
       <string id="three_image_camera_down">camera moved down</string>
@@ -1295,7 +1271,6 @@
       <links>
         <slidelink slideid="_player.6UaVZTYGbMM" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6UaVZTYGbMM.6AT3YcA7UKC" displaytext="Collagen 1" expand="false" type="slide" />
             <slidelink slideid="_player.6UaVZTYGbMM.5gswNp2bKDi" displaytext="The Breathing System Quiz" expand="false" type="slide" />
             <slidelink slideid="_player.6UaVZTYGbMM.5nDGS1Sm5EZ" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6UaVZTYGbMM.5mfuEjUFubP" displaytext="Draw from New Question Bank3" expand="false" type="slide" />
