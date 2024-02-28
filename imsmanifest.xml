@@ -60,7 +60,7 @@
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6Wx39dCvwcp_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+    <resource identifier="__6Wx39dCvwcp_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="story_content/6JsNyvlqfLo_80_DX86_DY86.swf" />
       <file href="mobile/6JsNyvlqfLo_80_DX86_DY86_CX67_CY53.png" />
@@ -116,6 +116,7 @@
       <file href="story.swf" />
       <file href="story_content/frame.swf" />
       <file href="story_content/slides/6AT3YcA7UKC.swf" />
+      <file href="story_content/slides/5gswNp2bKDi.swf" />
       <file href="story_content/slides/5nDGS1Sm5EZ.swf" />
       <file href="story_content/slides/5d9kGXsDhEO.swf" />
       <file href="story_content/slides/6QBFo8wbkLL.swf" />
@@ -157,6 +158,7 @@
       <file href="html5/data/js/5d1KRG7oxO2.js" />
       <file href="html5/data/js/5d9kGXsDhEO.js" />
       <file href="html5/data/js/5dSkdCm8PnT.js" />
+      <file href="html5/data/js/5gswNp2bKDi.js" />
       <file href="html5/data/js/5hh8ESPX9ds.js" />
       <file href="html5/data/js/5jEVOqRRjsl.js" />
       <file href="html5/data/js/5jo8Vtgnhsf.js" />
@@ -205,8 +207,6 @@
       <file href="story_flash.html" />
       <file href="story_content/story.js" />
       <file href="story_content/blank.html" />
-      <file href="launcher.html" />
-      <file href="story_content/external_window.png" />
       <file href="index_lms.html" />
       <file href="index_lms_flash.html" />
       <file href="index_lms_html5.html" />

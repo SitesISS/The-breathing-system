@@ -61,7 +61,7 @@
           <option name="volume" value="false" />
           <option name="seekbar" value="false">
             <options>
-              <option name="readonly" value="false" />
+              <option name="readonly" value="true" />
               <option name="readonlyOnce" value="false" />
             </options>
           </option>
@@ -1296,6 +1296,7 @@
         <slidelink slideid="_player.6UaVZTYGbMM" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6UaVZTYGbMM.6AT3YcA7UKC" displaytext="Collagen 1" expand="false" type="slide" />
+            <slidelink slideid="_player.6UaVZTYGbMM.5gswNp2bKDi" displaytext="The Breathing System Quiz" expand="false" type="slide" />
             <slidelink slideid="_player.6UaVZTYGbMM.5nDGS1Sm5EZ" displaytext="Untitled Slide" expand="false" type="slide" />
             <slidelink slideid="_player.6UaVZTYGbMM.5mfuEjUFubP" displaytext="Draw from New Question Bank3" expand="false" type="slide" />
           </links>
